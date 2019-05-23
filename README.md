@@ -7,7 +7,7 @@ initial implemention use torch7 which is a lua numerical computation library, yo
 
 The following is the training process:
 
-![]()
+![](https://github.com/seuyou/optical-device-design/blob/master/image/loss.png)
 
 From the test loss, even though eventually we can reach overfitting and the loss can reach the optimum, there are still
 some exceptions in the training process which are unexpected or can even be catastrophic. Then we optimize this bidirectional
