@@ -1,4 +1,4 @@
-#Plasmonic nanostructure design and characterization via Deep Learning 
+Plasmonic nanostructure design and characterization via Deep Learning 
 
 This repository is a fully implementation of [paper](https://www.nature.com/articles/s41377-018-0060-7), using
 the most famous deep neural network framework [tensorflow](https://www.tensorflow.org/), while the 
